@@ -1,1 +1,8 @@
-# SC_302_Documentacion_MN_Dereck_Madrigal
+# SC\_302\_Documentacion\_MN\_Dereck\_Madrigal
+
+
+
+Esta es mi primera práctica con GitHub.
+
+
+
